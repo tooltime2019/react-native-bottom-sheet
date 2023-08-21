@@ -1,5 +1,6 @@
 {
-  "name": "@gorhom/bottom-sheet",
+  "name": "@tooltime2019/bottom-sheet",
+  "repository": "https://github.com/tooltime2019/react-native-bottom-sheet",
   "version": "2.3.0",
   "description": "A performant interactive bottom sheet with fully configurable options 🚀",
   "main": "lib/commonjs/index",
